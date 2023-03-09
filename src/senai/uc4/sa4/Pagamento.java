@@ -1,5 +1,5 @@
-package senai.uc4.sa3;
-import java.util.Scanner;
+package senai.uc4.sa4;
+
 public class Pagamento {
 
     private int tipoPagamento;
